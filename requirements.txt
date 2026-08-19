@@ -1,4 +1,6 @@
 fastapi
+requests
+streamlit
 uvicorn
 pandas
 numpy
